@@ -12,6 +12,7 @@ The CLI builds a Docker container image locally that’s similar to a MWAA produ
 dags/
   requirements.txt
   tutorial.py
+  google_trends_hd.py
 docker/
   .gitignore
   mwaa-local-env
